@@ -12,19 +12,17 @@
   ![Profile Stats](https://github-readme-stats.vercel.app/api?username=igorsilva3&count_private=true&show_icons=true&theme=cobalt)
 </div>
 
----
-
 <!-- ## 💻 Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilva3&hide_border=true&langs_count=15title_color=000" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilva3&hide_border=true&langs_count=15title_color=000&card_width=400" align="center" >
 
 <div align="center">
 
 #### Technologies
 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-svg-vector.svg" width="125" alt="ReaactJs">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-svg-vector.svg" width="100" alt="NodeJs">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" width="100" alt="Python">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" width="80" alt="Django">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-svg-vector.svg" width="80" alt="ReaactJs">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-svg-vector.svg" width="60" alt="NodeJs">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" width="65" alt="Python">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" width="50" alt="Django">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg" width="100" alt="PHP">
 </div>
 
