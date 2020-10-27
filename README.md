@@ -12,7 +12,7 @@
   [![email: igor.alves@academico.ifpb.edu.br](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=gmail)](mailto:igor.alves@academico.ifpb.edu.br)
   [![linkedin: igorsilva](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-silva-980335144/)
   
-  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=igorsilva3&count_private=true&show_icons=true&theme=cobalt)
+  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=igorsilva3&show_icons=true&theme=cobalt)
 </div>
 
 <!-- ## 💻 Languages -->
