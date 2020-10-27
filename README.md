@@ -6,6 +6,9 @@
 
 <div align="center">
   
+  [![instagram: igor_silva.3](https://img.shields.io/badge/@igor_silva.3-DD2476?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_silva.3/)
+  [![facebook: igorsilva548](https://img.shields.io/badge/@igorsilva548-344E86?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/igorsilva548/)
+  [![gitshowcase: igorsilva3](https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://www.gitshowcase.com/igorsilva3)
   [![email: igor.alves@academico.ifpb.edu.br](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=gmail)](mailto:igor.alves@academico.ifpb.edu.br)
   [![linkedin: igorsilva](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-silva-980335144/)
   
