@@ -17,7 +17,7 @@
 
 <!-- ## 💻 Languages -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilva3&hide_border=true&langs_count=15title_color=000&card_width=535" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilva3&hide_border=true&langs_count=15title_color=000&card_width=535&theme=cobalt" >
 </div>
 <div align="center">
 
