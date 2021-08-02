@@ -28,5 +28,6 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" width="65" alt="Python">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" width="50" alt="Django">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg" width="100" alt="PHP">
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="70" alt="Typescript">
 </div>
 
